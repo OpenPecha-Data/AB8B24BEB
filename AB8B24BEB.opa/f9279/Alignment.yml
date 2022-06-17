@@ -1,0 +1,16 @@
+segment_sources:
+  IF84E8FBC:
+    type: origin_type
+    relation: translation
+    language: en
+  ID78D0840:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  b869e1fe07c541a5891def6b145591b0:
+    IF84E8FBC: 70e6e770f5d34b07a31b6ef3333e82d4
+    ID78D0840: 6c862084bafb4345b92d5927a1b93353
+  949efd3a5a3b4cb09867a3d9dd208b2b:
+    IF84E8FBC: 9b8438e2ef2f42eebf5fd4983f5019b3
+    ID78D0840: ec1ce30363bb49fa9717713887f88361

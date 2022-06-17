@@ -1,0 +1,22 @@
+segment_sources:
+  IF84E8FBC:
+    type: origin_type
+    relation: translation
+    language: en
+  I983F1417:
+    type: origin_type
+    relation: translation
+    language: fr
+  ID78D0840:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  5a5b2e363147484a804ca465168d8ea9:
+    IF84E8FBC: 324978f56ed8449991f53be3d2922eaa
+    I983F1417: 56abb5309adb43e79a45334c8739c414
+    ID78D0840: 3e706235479a435da18ef7ebad0c8198
+  75fbf12b78154c2fb97cdaf1df5452a5:
+    IF84E8FBC: 37cda5f899b940faa29fcf5a5413ee76
+    I983F1417: 6ec59956355441f0aa83eb7c22023c34
+    ID78D0840: 22ac7eb14bbb4932aab56f38d84bec60
